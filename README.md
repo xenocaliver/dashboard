@@ -11,13 +11,13 @@
 
 # Introduction
 
-Bootstrap and package your project with Angular 9 and Electron 8 (Typescript + SASS + Hot Reload) for creating Desktop applications.
+Bootstrap and package your project with Angular 9 and Electron 9 (Typescript + SASS + Hot Reload) for creating Desktop applications.
 
 Currently runs with:
 
-- Angular v9.1.1
-- Electron v8.2.1
-- Electron Builder v22.4.1
+- Angular v9.1.9
+- Electron v9.0.0
+- Electron Builder v22.6.1
 
 With this sample, you can :
 
@@ -34,7 +34,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/maximegris/angular-electron.git
+git clone https://github.com/xenocaliver/dashboard.git
 ```
 
 Install dependencies with npm :
